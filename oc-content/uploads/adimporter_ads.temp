@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<listings>
+    <listing>
+        <title lang="vi_VN"><![CDATA[Thanh lý mèo giống Đức giá rẻ]]></title>
+        <content lang="vi_VN"><![CDATA[Giống mèo này lấy từ trên mạng, có vẻ đẹp và lạ bất ngờ, liên hệ ngay số lượng có hạn.]]></content>
+		<categoryid>4</categoryid>
+        <category lang="vi_VN">Auto</category>
+        <contactemail>email@yahoo.com</contactemail>
+        <contactname>mai_zo</contactname>
+        <price>900500</price>
+        <currency>VND</currency>
+        <city_area>782042</city_area>
+        <city>Hà nội</city>
+        <region>Hà nội</region>
+        <countryId>VN</countryId>
+        <country>Việt Nam</country>
+        <custom name="client">Companie</custom >
+        <custom name="tip">thông tin khuyến mãi</custom >
+        <image>http://conejo.me/cats/153.jpg</image>
+        <image>http://conejo.me/cats/598.jpg</image>
+        <image>http://conejo.me/cats/1908.jpg</image>
+        <datetime>2015-04-18 12:34:56</datetime>
+    </listing>
+    <listing>
+        <title lang="vi_VN"><![CDATA[Sở hữu điện thoại smartphone Vega với giá 900.000 đồng]]></title>
+        <content lang="vi_VN"><![CDATA[Nhãn hiệu điện thoại đến từ Hàn Quốc đang chuẩn bị cho một chương trình giới thiệu sản phẩm lớn tại Việt Nam.
+Ngày 13/4, trên website Vega Việt Nam đã xuất hiện một thông điệp ẩn ý: “Chạm vào bí mật – Trải nghiệm sở hữu Vega Secret Up chỉ 900K”.]]></content>
+		<categoryid>9</categoryid>
+        <category lang="vi_VN">Điện tử, viễn thông</category>
+        <contactemail>vega@email.com</contactemail>
+        <contactname>VegaInter</contactname>
+        <price>900000</price>
+        <currency>VND</currency>
+        <city_area>423825</city_area>
+        <city>Hoàn Kiếm</city>
+        <region>Hà Nội</region>
+        <countryId>VN</countryId>
+        <country>Việt Nam</country>
+        <custom name="client">Companie</custom >
+        <custom name="tip">Inchiriere</custom >
+        <image>http://www.thegioiso24g.org/wp-content/uploads/2012/04/e28253f1d8eme-21.jpg.jpg</image>
+        <datetime>2015-04-18 12:34:56</datetime>
+    </listing>
+    <listing>
+        <title lang="vi_VN"><![CDATA[Title in English 23]]></title>
+        <content lang="vi_VN"><![CDATA[Lorem ipsum dolor sit a5met, consectetur adipiscing elit. Donec id nulla dolor. Ut aliquet, mauris id molestie porttitor, dui lorem pretium sem, quis vestibulum orci purVN ultrices lacVN. Nulla accumsan tortor porta nibh consequat rhoncVN. Pellentesque habitant morbi tristique senectVN et netVN et malesuada fames ac turpis egestas. Morbi elementum venenatis ante eu porta. Curabitur ultricies nunc vel elit rutrum scelerisque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. SVNpendisse rutrum lectVN quis sem malesuada nec placerat sapien malesuada.]]></content>
+		<categoryid>90</categoryid>
+        <category lang="vi_VN">Bất động sản</category>
+        <contactemail>your.false123@email.com</contactemail>
+        <contactname>Mrs. True Name 123 1</contactname>
+        <price>98.76</price>
+        <currency>VND</currency>
+        <city_area>0845744774</city_area>
+        <city>Ba Đình</city>
+        <region>Hà Nội</region>
+        <countryId>VN</countryId>
+        <country>Việt Nam</country>
+        <custom name="client">Companie</custom >
+        <custom name="tip">Inchiriere</custom >
+        <image>http://conejo.me/cats/13.jpg</image>
+        <image>http://conejo.me/cats/598.jpg</image>
+        <image>http://conejo.me/cats/1908.jpg</image>
+        <datetime>2015-04-18 12:34:56</datetime>
+    </listing>
+  
+</listings>
