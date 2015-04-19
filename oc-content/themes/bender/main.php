@@ -61,6 +61,13 @@
 </div>
 </div><!-- main -->
 <div id="sidebar">
+        <!-- vietnc fb like -->
+        <div
+        class="fb-like"
+        data-share="true"
+        data-width="450"
+        data-show-faces="true">
+      </div>
     <?php if( osc_get_preference('sidebar-300x250', 'bender') != '') {?>
     <!-- sidebar ad 350x250 -->
     <div class="ads_300">

@@ -23,6 +23,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="<?php echo str_replace('_', '-', osc_current_user_locale()); ?>">
     <head>
         <?php osc_current_web_theme_path('common/head.php') ; ?>
+        <script>
+        window.fbAsyncInit = function() {
+        FB.init({
+        appId      : '995844167113016',
+        xfbml      : true,
+        version    : 'v2.3'
+        });
+        };
+
+        (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+        </script>
     </head>
 <body <?php bender_body_class(); ?>>
 <div id="header">
@@ -50,6 +67,7 @@
                     <a href="<?php echo osc_user_logout_url(); ?>"><?php _e('Logout', 'bender'); ?></a>
                 </li>
             <?php } else { ?>
+                <li><?php fbc_button(); ?></li>
                 <li><a id="login_open" href="<?php echo osc_user_login_url(); ?>"><?php _e('Login', 'bender') ; ?></a></li>
                 <?php if(osc_user_registration_enabled()) { ?>
                     <li><a href="<?php echo osc_register_account_url() ; ?>"><?php _e('Register for a free account', 'bender'); ?></a></li>
