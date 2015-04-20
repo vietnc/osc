@@ -132,8 +132,7 @@
                                                 array('s_secret' => $newPassword),
                                                 array('pk_i_id' => $admin['pk_i_id'])
                                             );
-                                         echo   $password_url = osc_forgot_admin_password_confirm_url($admin['pk_i_id'], $newPassword);
-die;
+                                            $password_url = osc_forgot_admin_password_confirm_url($admin['pk_i_id'], $newPassword);
                                             osc_run_hook('hook_email_user_forgot_password', $admin, $password_url);
                                         }
 
