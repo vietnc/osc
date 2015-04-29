@@ -50,9 +50,9 @@
     </div>
     <div class="clear"></div>
     <div class="wrapper">
-        <div id="logo">
+        <div id="logo" title ="<?php echo osc_page_description(); ?>">
             <?php echo logo_header(); ?>
-            <span id="description"><?php echo osc_page_description(); ?></span>
+            <!--span id="description"><?php echo osc_page_description(); ?></span-->
         </div>
         <ul class="nav">
             <?php if( osc_is_static_page() || osc_is_contact_page() ){ ?>
